@@ -26,6 +26,7 @@ public class TestJedis {
 		String pong = jedis.ping();
 		
 		System.out.println(pong);
+		System.out.println(111111);
 	}
 	
 	@Test
